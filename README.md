@@ -2,7 +2,7 @@
 
 ### 🚀 Computer Science Student | AI Enthusiast | CCNA Certified
 
-I am an aspiring Software Engineer and AI developer currently pursuing my Bachelor of Computer Science at **TU Dortmund**. I focus on building intelligent systems that solve real-world problems through **Computer Vision**, **Natural Language Processing**, and **Automated Systems**.
+I am a 22yo aspiring Software Engineer and AI developer currently pursuing my Bachelor of Computer Science at **TU Dortmund**. I focus on building intelligent systems that solve real-world problems through **Computer Vision**, **Natural Language Processing**, and **Automated Systems**.
 
 ---
 
