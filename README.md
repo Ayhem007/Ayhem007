@@ -46,4 +46,4 @@ I am an aspiring Software Engineer and AI developer currently pursuing my Bachel
 - **LinkedIn:** www.linkedin.com/in/ayhambouzaienne
 
 ---
-*“Combining clean code with intelligent algorithms to build the future.”*
+*Combining clean code with intelligent algorithms to build the future.*
