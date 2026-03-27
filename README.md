@@ -6,6 +6,10 @@
 - 🏆 Winner of a **1st Place AI Hackathon** for a CV-based Agricultural system
 - 🥋 Fun fact: I have a brown belt in **Karate**
 
+  <p align="center">
+  <img src="https://github.com/Ayhem007/Ayhem007/blob/main/banner.png?raw=true" alt="Ayham Bouzaienne Banner" width="100%">
+  </p>
+
 # 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ayhambouzaienne)
