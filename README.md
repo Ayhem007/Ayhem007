@@ -22,11 +22,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 # 📊 GitHub Stats:
-
-&nbsp;
-
-![Ayham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayham007&show_icons=true&theme=radical)
-
-&nbsp;
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayham007&layout=compact&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=Ayhem007&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ayhem007&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayhem007&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
