@@ -1,49 +1,27 @@
-# Hi there, I'm Ayham Bouzaienne 👋
+# 💫 About Me:
 
-### 🚀 Computer Science Student | AI Enthusiast | CCNA Certified
+- 👋 Hi, I’m **Ayham Bouzaienne**
+- 🤖 I'm interested in **Artificial Intelligence, Machine Learning, and Software Engineering**
+- 🎓 I'm currently a CS Student at **TU Dortmund** and a **Research Assistant**
+- 🏆 Winner of a **1st Place AI Hackathon** for a CV-based Agricultural system
+- 🥋 Fun fact: I have a brown belt in **Karate**
 
-I am a 22yo aspiring Software Engineer and AI developer currently pursuing my Bachelor of Computer Science at **TU Dortmund**. I focus on building intelligent systems that solve real-world problems through **Computer Vision**, **Natural Language Processing**, and **Automated Systems**.
+# 🌐 Socials:
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ayhambouzaienne)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayhambouzaienne120@gmail.com)
 
-### 🛠️ Technical Stack
+# 💻 Tech Stack:
 
-- **Languages:** Python, C, Kotlin, SQL, JavaScript, PHP, HTML/CSS
-- **AI & Data:** TensorFlow, Computer Vision, NLP, Web Scraping
-- **Infrastructure:** Cisco Networking (CCNA), Git, Linux, API Integration
-- **Languages:** Arabic (Native),French (B2), German (C1), English (C1) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
----
+# 📊 GitHub Stats:
 
-### 🏆 Featured Project: AI Agricultural Vision System
-**Winner: 1st Place - AI Hackathon**
-* **Role:** Team Lead & Lead Developer
-* **The Problem:** Inefficient manual detection of plant diseases in large-scale farming.
-* **The Solution:** Developed an end-to-end Computer Vision system using **TensorFlow** to identify diseased trees in real-time.
-* **Tech:** Python, TensorFlow, Raspberry Pi, Edge Computing.
-
----
-
-### 📂 Other Notable Projects
-
-- **✨ Dreamverse:** A web platform utilizing **NLP** to interpret user-described dreams and generate AI-driven video simulations.
-- **📈 FC 26 Trading Bot:** An automated trading algorithm using **REST APIs** and real-time market analysis to identify profitable opportunities.
-- **🕷️ Amazon Product Scraper:** A high-efficiency scraping tool designed for large-scale data extraction and automated CSV structuring.
-
----
-
-### 🎓 Education & Research
-
-- **B.Sc. Computer Science:** TU Dortmund (2024 - 2028).
-- **Research Assistant:** TU Dortmund, Chair of Mechanical Engineering. Focusing on the integration of **Six Sigma** methodologies with **Artificial Intelligence**.
-- **Certifications:** CCNA: Introduction to Networks (Cisco Networking Academy) , Python Data Structure.
-
----
-
-### 📫 Let's Connect!
-
-- **Email:** ayhambouzaienne120@gmail.com
-- **LinkedIn:** www.linkedin.com/in/ayhambouzaienne
-
----
-*Combining clean code with intelligent algorithms to build the future.*
+![Ayham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayhem007&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayhem007&layout=compact&theme=radical)
