@@ -7,7 +7,7 @@
 - 🥋 Fun fact: I have a brown belt in **Karate**
 
   <p align="center">
-  <img src="https://github.com/Ayhem007/Ayhem007/blob/main/banner.png?raw=true" alt="Ayham Bouzaienne Banner" width="100%">
+  <img src="https://github.com/Ayhem007/Ayhem007/blob/main/banner.jpeg?raw=true" alt="Ayham Bouzaienne Banner" width="100%">
   </p>
 
 # 🌐 Socials:
