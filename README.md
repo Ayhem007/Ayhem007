@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m **Ayham Bouzaienne**
 - 🤖 I'm interested in **Artificial Intelligence, Machine Learning, and Software Engineering**
-- 🎓 I'm currently a CS Student at **TU Dortmund** and a **Research Assistant**
+- 🎓 I'm currently a CS Student at **TU Dortmund** and a **Working Student**
 - 🏆 Winner of a **1st Place AI Hackathon** for a CV-based Agricultural system
 - 🥋 Fun fact: I have a brown belt in **Karate**
 
